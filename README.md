@@ -1,2 +1,5 @@
-# TEST
-Test repo for CS62 lab
+# This is Lab Assignment #8
+
+## Vadym and Phillipe
+
+TEST TEST
