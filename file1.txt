@@ -1,3 +1,11 @@
 Step 1:  created by Vadym on Nov 1 at 2:03 pm
+<<<<<<< HEAD
 Step 3:  added by Vadym on Nov 1 at 2:10pm
 Step 4:  line added by Vadym on Nov 1 at 2:13PM
+=======
+<<<<<<< HEAD
+line added by Philippe on 11/1/2024 2:15 PM 
+=======
+Step 3:  added by Vadym on Nov 1 at 2:10pm
+>>>>>>> bc89e8955ab58bc60418aa857d29bf3dd48fd824
+>>>>>>> person2
